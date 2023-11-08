@@ -1,5 +1,5 @@
 # Analitica de aplicación de movilidad 🚕
-_El proyecto se enfoca en analizar los datos recopilados a través del uso que los usuarios dan a la aplicación. Sobre cada servicio se posee información sobre :_
+El proyecto se enfoca en analizar los datos recopilados a través del uso que los usuarios dan a la aplicación. Sobre cada servicio se posee información sobre :
 
 * Longitud del viaje
 * Tipo de vehículo solicitado
@@ -9,7 +9,7 @@ _El proyecto se enfoca en analizar los datos recopilados a través del uso que l
 * Calificación del servicio
 * Número de cancelaciones del servicio
 
-_Entre otras. Durante el proyecto se visualizan varias de estas características y se plantean hipótesis que son verificadas con un grado de validez estadístico alto. La intención es obtener respuestas certeras que aporten valor a la aplicación para diseñar nuevas estrategias de captación y fidelización de usuarios._ 
+Entre otras. Durante el proyecto se visualizan varias de estas características y se plantean hipótesis que son verificadas con un grado de validez estadístico alto. La intención es obtener respuestas certeras que aporten valor a la aplicación para diseñar nuevas estrategias de captación y fidelización de usuarios.
 
 #  Herramientas 🛠️
 
@@ -23,7 +23,7 @@ _Entre otras. Durante el proyecto se visualizan varias de estas características
 
 # Visualizaciones 📊
 
-_Visualmente es posible verificar diversas tendencias en los datos._
+Visualmente es posible verificar diversas tendencias en los datos.
 
 * La distancia de los viajes sigue un comportamiento multimodal. Por lo que es posible agrupar la mayoría de los viajes en categorías de distancia
 
@@ -53,7 +53,7 @@ _Visualmente es posible verificar diversas tendencias en los datos._
 
 # Experimentos estadísticos  🧪
 
-_Mediante la prueba de hipótesis podemos concluir :_
+Mediante la prueba de hipótesis podemos concluir :
 
 * Con una confianza del 99% Podemos decir que entre los destinos de tipo A y B ocupan una proporción de entre el [ 0.79-0.82 ] de los clientes
 
