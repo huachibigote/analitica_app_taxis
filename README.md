@@ -27,15 +27,29 @@ _Visualmente es posible verificar diversas tendencias en los datos._
 
 * La distancia de los viajes sigue un comportamiento multimodal. Por lo que es posible agrupar la mayoría de los viajes en categorías de distancia
 
+  
 
+![Historigrama-Distancia de viajes](https://github.com/huachibigote/analitica_app_taxis/assets/61852105/c4495497-ddb9-45fa-8b89-57105c48dd6c)
 
 
 * La media de la calificación del servicio es cercana a 3. Si se mejora el servicio esta media subirá, por lo cual puede usarse como indicador
 
+  
+![ranking_all_user](https://github.com/huachibigote/analitica_app_taxis/assets/61852105/4e7cf1ff-32af-48b4-83fb-241a192d3b94)
 
 
 
-* A pesar de que los hombres representan el 70% de los usuarios. Ambos generas tienen el mismo comportamiento respecto a las distancias de sus viajes y las calificaciones que otorgan al servicio. 
+* A pesar de que los hombres representan el 70% de los usuarios. Ambos generas tienen el mismo comportamiento respecto a las distancias de sus viajes y las calificaciones que otorgan al servicio.
+
+  
+![trip_dist_gender](https://github.com/huachibigote/analitica_app_taxis/assets/61852105/a314af90-4380-4803-ba3d-8ec16a63d4b1)
+
+
+  
+![ranking_gender](https://github.com/huachibigote/analitica_app_taxis/assets/61852105/a6f88c0c-3cac-423c-9e2d-2c818c49bb3c)
+
+  
+  
 
 # Experimentos estadísticos  🧪
 
