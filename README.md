@@ -9,7 +9,7 @@ El proyecto se enfoca en analizar los datos recopilados a través del uso que lo
 * Calificación del servicio
 * Número de cancelaciones del servicio
 
-Entre otras. Durante el proyecto se visualizan varias de estas características y se plantean hipótesis que son verificadas con un grado de validez estadístico alto. La intención es obtener respuestas certeras que aporten valor a la aplicación para diseñar nuevas estrategias de captación y fidelización de usuarios.
+Entre otras. Durante el proyecto se visualizan varias de estas características y se plantean hipótesis que son verificadas con un grado de validez estadístico. La intención es obtener respuestas certeras que aporten valor a la aplicación para diseñar nuevas estrategias de captación y fidelización de usuarios.
 
 #  Herramientas 🛠️
 
