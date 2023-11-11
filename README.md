@@ -39,7 +39,7 @@ Visualmente es posible verificar diversas tendencias en los datos.
 
 
 
-* A pesar de que los hombres representan el 70% de los usuarios. Ambos generas tienen el mismo comportamiento respecto a las distancias de sus viajes y las calificaciones que otorgan al servicio.
+* A pesar de que los hombres representan el 70% de los usuarios. Ambos generos tienen el mismo comportamiento respecto a las distancias de sus viajes y las calificaciones que otorgan al servicio.
 
   
 ![trip_dist_gender](https://github.com/huachibigote/analitica_app_taxis/assets/61852105/a314af90-4380-4803-ba3d-8ec16a63d4b1)
@@ -55,7 +55,7 @@ Visualmente es posible verificar diversas tendencias en los datos.
 
 Mediante la prueba de hipótesis podemos concluir :
 
-* Con una confianza del 99% Podemos decir que entre los destinos de tipo A y B ocupan una proporción de entre el [ 0.79-0.82 ] de los clientes
+* Con una confianza del 99% podemos decir que entre los destinos de tipo A y B ocupan una proporción de entre el [ 0.79-0.82 ] de los clientes
 
 * Con un 99% de confianza es posible asegurar que la proporción de hombres que usan el servicio está entre el 69% y el 73% del total
 
@@ -63,11 +63,11 @@ Mediante la prueba de hipótesis podemos concluir :
 
 * Entre un 6.85% y un 8.67% de los usuarios cancela 3 o más veces al mes
 
-* Con una confianza del 99% podemos decir que hombres y mujeres toman viajes con el mismo rango de distancia
+* Con una confianza del 99% podemos decir que hombres y mujeres toman viajes con el mismo rango de distancias
 
-* Con una confianza del 99% podemos decir que los hombres y las mujeres califican del mismo modo los viajes
+* Con una confianza del 99% podemos decir que hombres y mujeres califican del mismo modo los viajes
 
-* Con una confianza del 99% podemos decir que los hombres y las mujeres cancelan en la misma proporción
+* Con una confianza del 99% podemos decir que hombres y mujeres cancelan en la misma proporción
 
 
 
