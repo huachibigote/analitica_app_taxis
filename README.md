@@ -59,7 +59,7 @@ Mediante la prueba de hipótesis podemos concluir :
 
 * Con un 99% de confianza es posible asegurar que la proporción de hombres que usan el servicio está entre el 69% y el 73% del total
 
-* Con un 99% de seguridad podemos decir que entre un 83%-86% de los usuarios son asignados con un precio de tipo 2 o 3
+* Con un 99% de seguridad podemos decir que entre un 83%-86% de los usuarios prefiere un servicio de tipo 2 o 3
 
 * Entre un 6.85% y un 8.67% de los usuarios cancela 3 o más veces al mes
 
