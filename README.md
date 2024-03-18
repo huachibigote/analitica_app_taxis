@@ -14,7 +14,6 @@ Entre otras. Durante el proyecto se visualizan varias de estas características 
 #  Herramientas 🛠️
 
 * Python
-* Kaggle
 * Numpy
 * Pandas
 * Scipy
